@@ -1,0 +1,8 @@
+body { background: #78cfe0; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 12px; display: flex; }
+.block-auth-0 { color: #6ef51c; font-size: 17px; margin-bottom: 5px; }
+.block-auth-1 { color: #7b87e9; font-size: 15px; margin-bottom: 5px; }
+.block-cache-2 { color: #e86374; font-size: 20px; margin-bottom: 5px; }
+.block-database-3 { color: #5559eb; font-size: 18px; margin-bottom: 5px; }
+.block-user-4 { color: #cd9bac; font-size: 16px; margin-bottom: 5px; }
+.block-helper-5 { color: #d33951; font-size: 12px; margin-bottom: 5px; }
