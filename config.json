@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervelete",
+        "uuid": 441300,
+        "checksum": "ten6fp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
